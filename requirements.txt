@@ -1,0 +1,27 @@
+# Web Framework
+streamlit==1.45.1
+streamlit-authenticator==0.3.3
+
+# Document Processing
+pypdf2==3.0.1
+python-docx==1.1.2
+pymupdf==1.24.5
+
+# Embeddings (local, free)
+sentence-transformers==3.0.1
+
+# Vector Database
+pinecone-client==4.1.2
+
+# LLM
+groq==1.4.0
+httpx==0.28.1
+
+# Database
+sqlalchemy==2.0.31
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.8.2
+tiktoken==0.7.0
+numpy==1.26.4

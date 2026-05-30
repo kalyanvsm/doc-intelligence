@@ -1,0 +1,15 @@
+[theme]
+base = "dark"
+primaryColor = "#6C63FF"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#1A1D27"
+textColor = "#FAFAFA"
+font = "monospace"
+
+[server]
+maxUploadSize = 20
+enableXsrfProtection = true
+fileWatcherType = "poll"
+
+[browser]
+gatherUsageStats = false

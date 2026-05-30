@@ -1,0 +1,30 @@
+# Secrets — NEVER commit these
+.env
+.streamlit/secrets.toml
+
+# Database (local dev only)
+database/app.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Streamlit cache
+.streamlit/cache/
+
+# Model cache
+.cache/
+models/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
